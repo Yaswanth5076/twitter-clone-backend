@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter
 
 Given an `app.js` file and a database file `twitterClone.db` consisting of five tables `user`, `follower`, `tweet`, `reply`, and `like`.
@@ -532,3 +533,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# twitter-clone-backend
+A backend application built using **Node.js**, **Express.js**, and **SQLite** to simulate core Twitter functionalities like registration, login, posting tweets, likes, replies, and followers management — with JWT-based authentication.
+>>>>>>> 2688f3a22e7f3eeeecc52bfb798779d7546ce5d0
